@@ -11,6 +11,6 @@ html {
 /* Write your solution here */
 @media only screen and (max-width: 1900px) {
   #croc {
-    right: 500px;
+    right: 200px;
   }
 }
