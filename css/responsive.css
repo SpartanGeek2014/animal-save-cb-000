@@ -1,6 +1,5 @@
   @media only screen (max-width: 1200px) {
     #bear {
-      width: 75%;
+      float: none;
     }
   }
-  
